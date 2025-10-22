@@ -210,11 +210,11 @@ PASS: Exact bit period from prescale.
 
 | Testbench | DUT | Key Feature | Result |
 |------------|-----|-------------|--------|
-| tb_corr1_tx | uart_tx_corr_1.v | Baud timing precision | ✅ PASS |
-| tb_corr2_tx | uart_tx_corr_2.v | LSB-first correctness | ✅ PASS |
-| tb_corr4_tx | uart_tx_corr_4.v | Stable AXI handshake | ✅ PASS |
-| tb_corr5_rx | uart_rx_corr_5.v | Overrun flag clearing | ✅ PASS |
-| tb_corr7_tx | uart_tx_corr_7.v | Counter scaling verified | ✅ PASS |
+| tb_corr1_tx | uart_tx_corr_1.v | Baud timing precision |  PASS |
+| tb_corr2_tx | uart_tx_corr_2.v | LSB-first correctness |  PASS |
+| tb_corr4_tx | uart_tx_corr_4.v | Stable AXI handshake |   PASS |
+| tb_corr5_rx | uart_rx_corr_5.v | Overrun flag clearing |  PASS |
+| tb_corr7_tx | uart_tx_corr_7.v | Counter scaling verified |  PASS |
 
 ---
 
