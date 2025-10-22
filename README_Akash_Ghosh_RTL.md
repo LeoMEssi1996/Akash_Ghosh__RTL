@@ -1,4 +1,4 @@
-# ā Akash_Ghosh_RTL_Home_Work_Solution
+#  Akash_Ghosh_RTL_Home_Work_Solution
 ### *AXI4-Stream UART Design, Debug, and Verification Repository*
 
 ---
